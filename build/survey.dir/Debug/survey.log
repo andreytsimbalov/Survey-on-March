@@ -1,0 +1,3 @@
+﻿  survey.c
+c:\users\sg\downloads\nanomsg-master\tests\survey.c(40): warning C4047: инициализация: "char" отличается по уровням косвенного обращения от "char [4]"
+  survey.vcxproj -> C:\Users\SG\Downloads\nanomsg-master\build\Debug\survey.exe

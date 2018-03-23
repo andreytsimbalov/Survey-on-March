@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "survey", "survey.vcxproj", "{043AD3BC-5655-3909-AB5D-0ED66B67AF66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		MinSizeRel|Win32 = MinSizeRel|Win32
+		Release|Win32 = Release|Win32
+		RelWithDebInfo|Win32 = RelWithDebInfo|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{043AD3BC-5655-3909-AB5D-0ED66B67AF66}.Debug|Win32.ActiveCfg = Debug|Win32
+		{043AD3BC-5655-3909-AB5D-0ED66B67AF66}.Debug|Win32.Build.0 = Debug|Win32
+		{043AD3BC-5655-3909-AB5D-0ED66B67AF66}.MinSizeRel|Win32.ActiveCfg = MinSizeRel|Win32
+		{043AD3BC-5655-3909-AB5D-0ED66B67AF66}.MinSizeRel|Win32.Build.0 = MinSizeRel|Win32
+		{043AD3BC-5655-3909-AB5D-0ED66B67AF66}.Release|Win32.ActiveCfg = Release|Win32
+		{043AD3BC-5655-3909-AB5D-0ED66B67AF66}.Release|Win32.Build.0 = Release|Win32
+		{043AD3BC-5655-3909-AB5D-0ED66B67AF66}.RelWithDebInfo|Win32.ActiveCfg = RelWithDebInfo|Win32
+		{043AD3BC-5655-3909-AB5D-0ED66B67AF66}.RelWithDebInfo|Win32.Build.0 = RelWithDebInfo|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37369105-C5E4-32FD-9F4B-9188289F1499}
+	EndGlobalSection
+EndGlobal
